@@ -1,0 +1,5 @@
+opencv-python
+numpy
+# mediapipe (Face Mesh) is required ONLY for real-footage mode (--source).
+# Simulation mode (--simulate) runs without it.
+mediapipe
